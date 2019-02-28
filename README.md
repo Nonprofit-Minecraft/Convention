@@ -56,7 +56,7 @@ __加入公约的服务器有披露公约的义务。__
 
 ### 商业限制
 
-__公益服务器遵守「[Minecraft 商业使用指南 (Minecraft Commercial Usage Guidelines)](https://account.mojang.com/documents/commercial_guidelines)」的全部条款。__
+__公益服务器遵守「[Minecraft 商业使用指南 (Minecraft Commercial Usage Guidelines)](https://account.mojang.com/documents/commercial_guidelines)」中的全部条款。__
 
 __公益服务器遵守「[Minecraft 最终用户许可协议 (Minecraft EULA)](https://account.mojang.com/documents/minecraft_eula)」中有关商业使用的条款。__
 
