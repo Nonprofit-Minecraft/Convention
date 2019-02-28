@@ -56,7 +56,9 @@ __加入公约的服务器有披露公约的义务。__
 
 ### 商业限制
 
-__公益服务器遵守「[Minecraft 商业使用指南](https://account.mojang.com/documents/commercial_guidelines) (Minecraft Commercial Usage Guidelines)」的全部条款以及「[Minecraft 最终用户许可协议](https://account.mojang.com/documents/minecraft_eula) (Minecraft EULA)」中有关商业使用的条款。__
+__公益服务器遵守「[Minecraft 商业使用指南 (Minecraft Commercial Usage Guidelines)](https://account.mojang.com/documents/commercial_guidelines)」的全部条款。__
+
+__公益服务器遵守「[Minecraft 最终用户许可协议 (Minecraft EULA)](https://account.mojang.com/documents/minecraft_eula)」中有关商业使用的条款。__
 
 __玩家的资金投入行为，可以鼓励但不得强迫。__
 * 强迫指在事实上构成强迫。
@@ -84,7 +86,7 @@ __公益服务器的资金流动应当透明。__
 
 -----
 
-### 公约相容性
+### 相容性
 
 __公约所列条例与其他服务器标准或相关文件（下称「其他标准」）不相冲突。__
 * 公益服务器保留同时执行和遵守其他标准的权利。
