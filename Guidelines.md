@@ -30,3 +30,9 @@ __成本应当作公开，各项成本组成部分应做到清晰明了。__
 * 如果成本不仅用于发展服务器，对于容易划分的，应当排除非服务器相关部分，对于难以划分的，服务器管理者可在公示的情况下依据情况合理设定。
 
 __宣言监督组对资金透明化工作进行各种方式的监督，各公益服务器需自觉接受监督。__
+
+
+-----
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
