@@ -1,5 +1,5 @@
 # 资金透明化指导方针
-### Economic transparency guidelines
+### THE ECONOMIC TRANSPARENCY GUIDELINES FOR NONPROFIT MINECRAFT SERVERS
 
 -----
 
