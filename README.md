@@ -1,0 +1,2 @@
+# Convention
+Minecraft 公益服务器公约 / THE CONVENTION OF NONPROFIT MINECRAFT SERVERS
