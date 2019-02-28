@@ -91,3 +91,9 @@ __公益服务器的资金流动应当透明。__
 __公约所列条例与其他服务器标准或相关文件（下称「其他标准」）不相冲突。__
 * 公益服务器保留同时执行和遵守其他标准的权利。
 * 入乡随俗。若要同时遵守其他标准，其他标准中的某项条例，在公约中未描述或相较公约更加严格时，需按其他标准中的条例执行，反之，需按公约中的条例执行。
+
+
+-----
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
