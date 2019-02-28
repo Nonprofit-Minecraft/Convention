@@ -1,4 +1,5 @@
 # 资金透明化指导方针
+### Economic transparency guidelines
 
 -----
 
