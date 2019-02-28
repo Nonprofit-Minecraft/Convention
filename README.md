@@ -82,7 +82,7 @@ __禁止设立可通过真实货币直接或间接兑换的虚拟货币。__
 * 允许将虚拟货币兑换为真实货币的行为。
 
 __公益服务器的资金流动应当透明。__
-* 具体要求以公约的「资金透明化指导方针」为准。
+* 具体要求以公约的「[资金透明化指导方针](https://github.com/Nonprofit-Minecraft/Convention/blob/master/Guidelines.md)」为准。
 
 -----
 
