@@ -1,6 +1,6 @@
 # Minecraft 公益服务器公约
 #### THE CONVENTION OF NONPROFIT MINECRAFT SERVERS
-#### 版本 Version 1.0
+#### 版本 Version 1.0.1
 
 -----
 
