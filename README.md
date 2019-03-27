@@ -1,6 +1,6 @@
 # Minecraft 公益服务器公约
 #### THE CONVENTION OF NONPROFIT MINECRAFT SERVERS
-#### 版本 Version 1.0
+#### 版本 Version 1.0.1
 
 -----
 
@@ -79,7 +79,6 @@ __不允许以任何形式收取入服费用。__
 __在开设涉及商业行为的项目之前，应当征求玩家意见。__
 
 __禁止设立可通过真实货币直接或间接兑换的虚拟货币。__
-* 允许将虚拟货币兑换为真实货币的行为。
 
 __公益服务器的资金流动应当透明。__
 * 具体要求以公约的「[资金透明化指导方针](https://github.com/Nonprofit-Minecraft/Convention/blob/master/Guidelines.md)」为准。
